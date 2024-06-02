@@ -1,0 +1,14 @@
+pymongo
+langchain
+pymongo[srv]
+langchain-openai
+python-dotenv
+huggingface_hub
+gradio
+langchain-community
+chardet
+unstructured
+chromadb
+openai
+sentence_transformers
+langchain-google-genai
