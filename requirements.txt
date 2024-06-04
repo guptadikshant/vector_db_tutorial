@@ -12,3 +12,4 @@ chromadb
 openai
 sentence_transformers
 langchain-google-genai
+langchain-groq
